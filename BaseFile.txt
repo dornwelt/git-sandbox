@@ -1,1 +1,1 @@
-Hier ist eine Basisdatei die in einem anderen Branch eigentlich gemacht werden soll und hier bereits benötigt wird. Desegen hier als Dummy angelegt.
+BaseFile in Feature 2 - initial revision
