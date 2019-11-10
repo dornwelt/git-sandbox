@@ -1,0 +1,2 @@
+Feature 1 - Initial revision
+- Some changes implemented in feature 1
