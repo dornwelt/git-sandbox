@@ -1,1 +1,2 @@
 BaseFile in Feature 2 - initial revision
+- BaseFile some changes
